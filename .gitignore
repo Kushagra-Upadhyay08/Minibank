@@ -1,0 +1,10 @@
+*.class
+minibank_data/
+node_modules/
+extract.cjs
+extract.mjs
+package-lock.json
+package.json
+pdf_content.txt
+2026-27-ODD-CEUE203-OOPJ-PracticalList.pdf
+README.md
